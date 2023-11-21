@@ -13,18 +13,18 @@ import * as $$$$$$$$$$$1 from "./apps/site.ts";
 
 const manifest = {
   "sections": {
-    "deco-sites/bf-thealfred/sections/BestDiscounts.tsx": $$$$$$0,
-    "deco-sites/bf-thealfred/sections/DiscountsByCategory.tsx": $$$$$$2,
-    "deco-sites/bf-thealfred/sections/Footer.tsx": $$$$$$4,
-    "deco-sites/bf-thealfred/sections/Home.tsx": $$$$$$1,
-    "deco-sites/bf-thealfred/sections/SaleOff.tsx": $$$$$$5,
-    "deco-sites/bf-thealfred/sections/Theme.tsx": $$$$$$3,
+    "deco-sites/tavano-the-a/sections/BestDiscounts.tsx": $$$$$$0,
+    "deco-sites/tavano-the-a/sections/DiscountsByCategory.tsx": $$$$$$2,
+    "deco-sites/tavano-the-a/sections/Footer.tsx": $$$$$$4,
+    "deco-sites/tavano-the-a/sections/Home.tsx": $$$$$$1,
+    "deco-sites/tavano-the-a/sections/SaleOff.tsx": $$$$$$5,
+    "deco-sites/tavano-the-a/sections/Theme.tsx": $$$$$$3,
   },
   "apps": {
-    "deco-sites/bf-thealfred/apps/decohub.ts": $$$$$$$$$$$0,
-    "deco-sites/bf-thealfred/apps/site.ts": $$$$$$$$$$$1,
+    "deco-sites/tavano-the-a/apps/decohub.ts": $$$$$$$$$$$0,
+    "deco-sites/tavano-the-a/apps/site.ts": $$$$$$$$$$$1,
   },
-  "name": "deco-sites/bf-thealfred",
+  "name": "deco-sites/tavano-the-a",
   "baseUrl": import.meta.url,
 };
 
